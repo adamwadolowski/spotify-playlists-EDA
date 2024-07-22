@@ -1,5 +1,6 @@
 TO DO:
-- add to the raw data frame the name and description of a playlist
+- change column types to appropriate data types
+- should I store the link to the playlist if it can be reconstructed from the id?
 
 - SQL DATABASE => 1. table Playlists, 2. table songs, 3.table songID and playlistID
 - create uniquness constraints and indices
