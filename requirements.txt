@@ -1,6 +1,8 @@
 TO DO:
 - change column types to appropriate data types
 - should I store the link to the playlist if it can be reconstructed from the id?
+- Should the comments I make be in the first person (I check if...) or in plular for (We check if...)
+- FIX TYPES OF COLUMNS BEFORE MIGRATING TO A DATABASE
 
 - SQL DATABASE => 1. table Playlists, 2. table songs, 3.table songID and playlistID
 - create uniquness constraints and indices
