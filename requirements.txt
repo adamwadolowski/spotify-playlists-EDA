@@ -1,0 +1,2 @@
+SQL DATABASE => 1. table Playlists, 2. table songs, 3.table songID and playlistID
+also create uniquness constraints and indices
