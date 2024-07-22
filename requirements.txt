@@ -1,2 +1,5 @@
-SQL DATABASE => 1. table Playlists, 2. table songs, 3.table songID and playlistID
-also create uniquness constraints and indices
+TO DO:
+- add to the raw data frame the name and description of a playlist
+
+- SQL DATABASE => 1. table Playlists, 2. table songs, 3.table songID and playlistID
+- create uniquness constraints and indices
