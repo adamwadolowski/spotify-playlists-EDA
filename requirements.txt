@@ -3,6 +3,7 @@ TO DO:
 - should I store the link to the playlist if it can be reconstructed from the id?
 - Should the comments I make be in the first person (I check if...) or in plular for (We check if...)
 - FIX TYPES OF COLUMNS BEFORE MIGRATING TO A DATABASE
+- drop the column with links to the Playlists
 
 - SQL DATABASE => 1. table Playlists, 2. table songs, 3.table songID and playlistID
 - create uniquness constraints and indices
