@@ -1,5 +1,5 @@
 TO DO:
 - change column types to appropriate data types
 - make all comments in the first person
-- change succesful_response function in the NB01 to return the resulting dict or empty dict
 - create uniquness constraints and indices
+- change 'we' to 'I'
