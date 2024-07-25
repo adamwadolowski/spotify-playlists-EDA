@@ -2,3 +2,5 @@ TO DO:
 - play with ggsize
 - put key takeaways in plots titles
 - for the log scale, add vertical lines in equal intervals
+
+- how to make the explicit content binary
