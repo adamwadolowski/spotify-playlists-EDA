@@ -1,9 +1,4 @@
 TO DO:
-- create uniquness constraints and indices
-- change 'we' to 'I'
-- add .gitignore and delete unnecessary files
-- check if there are any missing values in the NB02
-- ADD FOREIGN KEYS WHEN THEY REFERENCE THINGS ON OTHER TABLES
 - play with ggsize
 - put key takeaways in plots titles
 - for the log scale, add vertical lines in equal intervals
