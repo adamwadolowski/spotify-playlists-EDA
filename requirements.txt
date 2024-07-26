@@ -4,3 +4,6 @@ TO DO:
 - for the log scale, add vertical lines in equal intervals
 
 - how to make the explicit content binary
+- should I make a table with songs and artists?
+- despite saving date as a date object in the db, when I query a table I get a string representation, should I transform it to datetime every time?
+- 
