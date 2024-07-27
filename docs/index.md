@@ -12,12 +12,12 @@ All the variables I used were collected exclusively from [Spotify's API](https:/
 
 ### Key Findings
 
++ ![Only songs without explicit content become timeless classics]('figures/explicit_content_per_year.svg')
 
 
 
 
 
-
-![Finally, to answer the question from the introduction, Taylor Swift appears on all the pop playlists the most frequently by a huge margin of over 200 appearances.](me204-2024-project-adamwadolowski\docs\figures\singers_popularity.svg)
++ ![Finally, to answer the question from the introduction, Taylor Swift appears on all the pop playlists the most frequently by a huge margin of over 200 appearances.]('figures/singers_popularity.svg')
 
 
