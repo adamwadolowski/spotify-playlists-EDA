@@ -1,7 +1,7 @@
 # Spotify Pop Playlists Analysis
 
 ### Introduction
-Hello :wave: ! Welcome to my project where I collect data about pop playlists on Spotify in the UK and present my findings. For example, did you know that one artist appears 280 times whereas the second most popular has only 33 appearances on all the pop playlists in the UK? Can you guess who it is?
+Hello :wave: ! Welcome to my project where I collect data about pop playlists on Spotify in the UK and present my findings. For example, did you know that one of the artists appears 280 times whereas the second most popular has only 33 appearances on all the pop playlists in the UK? Can you guess who it is?
 
 ### About me
 I am an Econometrics student in the final year of my Bachelor at the [Erasmus University Rotterdam](https://www.eur.nl/en). I am passionate about predictive models and, since recently, webscraping. I created this project as part of the [LSE Data Engineering](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me204) course I followed in July 2024.
@@ -13,8 +13,10 @@ All the variables I used were collected exclusively from [Spotify's API](https:/
 ### Key findings
 + Only songs without explicit content become timeless classics
 <iframe src="figures/explicit_content_per_year.html" width="100%" height="400px"></iframe>
+
 + Number of playlists' followers is positively correlated with the average popularity of a song
 <iframe src="figures/images_plot.html" width="100%" height="600px"></iframe>
+
 + Finally, to answer the question from the introduction, Taylor Swift appears on all the pop playlists the most frequently by a huge margin of over 200 appearances.
 <iframe src="figures/singers_popularity.html" width="100%" height="550px"></iframe>
 
