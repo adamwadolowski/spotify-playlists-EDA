@@ -1,5 +1,5 @@
 # Welcome!
-This repository stores files used to 
+This repository stores files used to collect, transform and analyze playlists data from Spotify API.
 
 ### Replicating the results
 Below, you can find instructions how to run the code stored in this repository.
@@ -14,10 +14,10 @@ conda init
 conda create --name spotifyproject
 conda activate spotifyproject
 conda install pip
-pip instal -r requirements.txt
+pip install -r requirements.txt
 ```
 2. Go to [this website](https://developer.spotify.com/documentation/web-api) and follow the instructions to obtain your Spotify API credentials. You might need to create an account if you are not a Spotify user.
-3. Create a `.env` file in the folder where all the files from this repository are stored and save your client id and client secret in the following format where `<your client id>` and `<your client secret>` should be replaced. 
+3. Create a `.env` file in the folder where all the files from this repository are stored and save your client id and client secret in the following format where `<your client id>` and `<your client secret>` should be replaced with your account details. 
 ```json
 {
     "CLIENT_ID": "<your client id>",
@@ -25,7 +25,7 @@ pip instal -r requirements.txt
 }
 ```
 
-4. You are ready to go, run the notebooks in the `notebooks` folder according to their numbering.
+4. You are ready to go! Run the notebooks in the [notebooks](/notebooks) folder according to their numbering.
 
 ### Please note
 The playlists, and thus, visualizations you obtain will differ depending on your country of residence and the date as the API's responses are matched to the region you are in and the database is updated very day. My data was collected for the region of UK on July $27^{th}$ 2024.
