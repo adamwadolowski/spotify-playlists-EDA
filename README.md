@@ -1,5 +1,7 @@
 # Welcome!
+This repository stores files used to 
 
+### Replicating the results
 Below, you can find instructions how to run the code stored in this repository.
 
 1. Clone this repository to your prefered location.
@@ -26,7 +28,7 @@ pip instal -r requirements.txt
 4. You are ready to go, run the notebooks in the `notebooks` folder according to their numbering.
 
 ### Please note
-The playlists, and thus, visualizations you obtain will differ depending on your country of residence as the API's responses are matched to the region you are in.
+The playlists, and thus, visualizations you obtain will differ depending on your country of residence and the date as the API's responses are matched to the region you are in and the database is updated very day. My data was collected for the region of UK on July $27^{th}$ 2024.
 
 
 ### GenAI acknowledgement

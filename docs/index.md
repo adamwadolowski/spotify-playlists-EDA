@@ -12,13 +12,13 @@ All the variables I used were collected exclusively from [Spotify's API](https:/
 
 ### Key findings
 + Only songs without explicit content become timeless classics
-<iframe src="figures/explicit_content_per_year.html" width="100%" height="400px"></iframe>
+<iframe frameborder="0" src="figures/explicit_content_per_year.html" width="100%" height="400px"></iframe>
 
 + Number of playlists' followers is positively correlated with the average popularity of a song
-<iframe src="figures/images_plot.html" width="100%" height="600px"></iframe>
+<iframe frameborder="0" src="figures/images_plot.html" width="100%" height="600px"></iframe>
 
 + Finally, to answer the question from the introduction, Taylor Swift appears on all the pop playlists the most frequently by a huge margin of over 200 appearances.
-<iframe src="figures/singers_popularity.html" width="100%" height="550px"></iframe>
+<iframe frameborder="0" src="figures/singers_popularity.html" width="100%" height="550px"></iframe>
 
 In case you would like to know more, please check out my [EDA notebook](../notebooks/NB03-Exploratory-Data-Analysis.ipynb)
 
