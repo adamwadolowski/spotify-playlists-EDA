@@ -1,5 +1,5 @@
 # Welcome!
-This repository stores files used to collect, transform and analyze playlists data from Spotify API.
+This repository stores files used to collect, transform and analyze playlists data from [Spotify API](https://developer.spotify.com/documentation/web-api).
 
 ### Replicating the results
 Below, you can find instructions how to run the code stored in this repository.
@@ -8,7 +8,7 @@ Below, you can find instructions how to run the code stored in this repository.
 
 2. Recreate the environment:
     + Download miniconda if you haven't done so already and install it on your computer.
-    + In powershell or command prompt create a new environment and install necessary packages.
+    + In a terminal of your preference create a new environment and install necessary packages.
 ```bash
 conda init
 conda create --name spotifyproject
@@ -25,10 +25,10 @@ pip install -r requirements.txt
 }
 ```
 
-4. You are ready to go! Run the notebooks in the [notebooks](/notebooks) folder according to their numbering.
+4. You are ready to go! Run the jupyter notebooks in the [notebooks](/notebooks) folder according to their numbering.
 
 ### Please note
-The playlists, and thus, visualizations you obtain will differ depending on your country of residence and the date as the API's responses are matched to the region you are in and the database is updated very day. My data was collected for the region of UK on July $27^{th}$ 2024.
+The playlists, and thus, visualizations you obtain will differ depending on your country of residence and the date as the API's responses are matched to the region you are in and the database is updated every day. My data was collected for the region of UK on July $27^{th}$ 2024.
 
 
 ### GenAI acknowledgement
