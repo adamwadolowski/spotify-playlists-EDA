@@ -16,16 +16,16 @@ All the variables I used were collected exclusively from [Spotify's API](https:/
 ## Key findings
 
 ### Today's Top Hits is the most popular pop playlist in the UK.
-<iframe frameborder="0" src="figures/playlist_popularity.html" width="100%" height="100vh"></iframe>
+<iframe frameborder="0" src="figures/playlist_popularity.html" width="100%" height="500px"></iframe>
 
 ### Only songs without explicit content become timeless classics.
-<iframe frameborder="0" src="figures/explicit_content_per_year.html" width="100%" height="100vh"></iframe>
+<iframe frameborder="0" src="figures/explicit_content_per_year.html" width="100%" height="500px"></iframe>
 
 ### Number of followers a playlist has is positively correlated with the average popularity of songs on that playlist.
-<iframe frameborder="0" src="figures/images_plot.html" width="100%" height="100vh"></iframe>
+<iframe frameborder="0" src="figures/images_plot.html" width="100%" height="500px"></iframe>
 
 ### Finally, to answer the question from the Introduction, Taylor Swift appears on all the pop playlists the most frequently by a huge margin of over 200 appearances.
-<iframe frameborder="0" src="figures/singers_popularity.html" width="100%" height="100vh"></iframe>
+<iframe frameborder="0" src="figures/singers_popularity.html" width="100%" height="500px"></iframe>
 
 In case you would like to get more insights, please check out my [EDA notebook](../notebooks/NB03-Exploratory-Data-Analysis.ipynb).
 
