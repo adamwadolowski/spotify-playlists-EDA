@@ -16,7 +16,7 @@ All the variables I used were collected exclusively from [Spotify's API](https:/
 ## Key findings
 
 ### Today's Top Hits is the most popular pop playlist in the UK.
-<iframe frameborder="0" src="figures/playlist_popularity.html" width="1200" height="750px"></iframe>
+<iframe frameborder="0" src="figures/playlist_popularity.html" width="800" height="750px"></iframe>
 
 ### Only songs without explicit content become timeless classics.
 <iframe frameborder="0" src="figures/explicit_content_per_year.html" width="1200" height="700px"></iframe>
