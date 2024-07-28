@@ -1,6 +1,6 @@
 ---
 title: Spotify Pop Playlists Analysis
-author: Adam Wadolowski
+author: James Bond
 ---
 
 ## Introduction
