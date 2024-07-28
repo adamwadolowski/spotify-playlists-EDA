@@ -1,5 +1,6 @@
 # Welcome!
-This repository stores files used to collect, transform and analyze playlists data from [Spotify API](https://developer.spotify.com/documentation/web-api).
+This repository stores files used to collect, transform and analyze playlists data from [Spotify API](https://developer.spotify.com/documentation/web-api). If you are only interested in the main results, please visit [this page](https://lse-me204.github.io/me204-2024-project-adamwadolowski/).
+
 
 ### Replicating the results
 Below, you can find instructions how to run the code stored in this repository.
