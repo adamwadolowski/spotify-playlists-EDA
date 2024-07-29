@@ -34,4 +34,4 @@ In case you would like to get more insights, please check out my [EDA notebook](
 One of the biggest limitations of this project is the restriction to a specific country and playlist category. Theoretical feasibility of a dataset that includes all songs on Spotify is tempting for further projects. Additionally, one could conduct a smiliar study based on [YouTube](https://developers.google.com/youtube/v3) and even go one step further and compare the popularity of the songs on these two platforms. 
 
 ## Interested in expanding the project?
-If your answer is 'yes', feel free to connect and send me a message on [LinkedIn](www.linkedin.com/in/adam-wadolowski). 
+If your answer is 'yes', feel free to connect and send me a message on [LinkedIn](www.linkedin.com/in/adam-wadolowski).
