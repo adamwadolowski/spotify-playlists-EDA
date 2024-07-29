@@ -29,7 +29,6 @@ All the variables I used were collected exclusively from [Spotify's API](https:/
 
 In case you would like to get more insights, please check out my [EDA notebook](../notebooks/NB03-Exploratory-Data-Analysis.ipynb).
 
-
 ## What's next?
 One of the biggest limitations of this project is the restriction to a specific country and playlist category. Theoretical feasibility of a dataset that includes all songs on Spotify is tempting for further projects. Additionally, one could conduct a smiliar study based on [YouTube](https://developers.google.com/youtube/v3) and even go one step further and compare the popularity of the songs on these two platforms. 
 
