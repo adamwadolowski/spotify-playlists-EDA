@@ -4,7 +4,7 @@ author: Adam Wadolowski
 ---
 
 ## Introduction
-Hello! Welcome to my project where I collect data about pop playlists available on Spotify in the UK and present my findings. For example, did you know that one of the artists appears 280 times whereas the second most popular has only 33 appearances on all the pop playlists in the UK? Can you guess who that is?
+Hello! Welcome to my project where I collect data about pop playlists available on Spotify in the UK and present my findings. For example, did you know that one of the artists appears 280 times whereas the second most popular singer has only 33 appearances on all the pop playlists in the UK? Can you guess who that is?
 
 ## About me
 I am an Econometrics student in the final year of my Bachelor at the [Erasmus University Rotterdam](https://www.eur.nl/en). I am passionate about predictive models and, since recently, webscraping. I created this project as part of the [LSE Data Engineering](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me204) course I followed in July 2024.
