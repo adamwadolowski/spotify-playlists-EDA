@@ -33,4 +33,4 @@ The playlists, and thus, visualizations you obtain will differ depending on your
 
 
 ### GenAI acknowledgement
-Throughout the project I made use of chatGPT-4o. To distinguish between my own work and the cooperation with the LLM, I made comments similar to 'chatGPT helped in the line below' and 'chatGPT helped in this cell'. In general, its use was mostly consering debugging my code and one visualization where I wanted to replace points with images.
+Throughout the project I made use of chatGPT-4o. To distinguish between my own work and the cooperation with the LLM, I made comments similar to 'chatGPT helped in the line below' and 'chatGPT helped in this cell'. In general, its use was mostly concerning debugging my code and one visualization where I wanted to replace points with images.
